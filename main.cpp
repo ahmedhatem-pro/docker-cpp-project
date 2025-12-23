@@ -13,7 +13,7 @@ int main()
         return 1;
     }
 
-    std::string expectedUser = "admin";
+    std::string expectedUser = "Ahmed";
     std::string expectedPass = "1234";
 
     if (user == expectedUser && pass == expectedPass)
